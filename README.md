@@ -21,3 +21,5 @@ A modern financial dashboard designed to simplify complex portfolio data into in
 
 ## 💡 Concept
 Turning raw financial data into a story clients can understand and act upon.
+<img width="1043" height="631" alt="image" src="https://github.com/user-attachments/assets/af3ef960-0d20-49d4-b927-7b3311f02c50" />
+
